@@ -20,7 +20,7 @@
     "require": {
         "php": ">=7.2",
         "ext-json": "*",
-        "apimatic/unirest-php": "^4.0.0",
+        "apimatic/unirest-php": "dev-master",
         "apimatic/core-interfaces": "~0.1.0",
         "apimatic/core": "~0.1.0"
     },
